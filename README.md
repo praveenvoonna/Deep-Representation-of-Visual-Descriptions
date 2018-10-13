@@ -13,6 +13,11 @@ Translating text in form of single statement human written descriptions directly
 2.	To make an image generator out of visual descriptions.
 3.	To make the model platform independent.
 
+Deep Convolutional Networks and RNN have already yielded discriminative
+and generalizable text representation of images.
+We also have DCGAN to generate natural images using competing
+Discriminative and Generator functions.
+
 
 ## Dependencies ![](https://img.shields.io/depfu/depfu/example-ruby.svg)
 1. Python
