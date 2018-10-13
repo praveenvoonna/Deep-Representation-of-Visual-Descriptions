@@ -7,6 +7,13 @@
 
 
 ## Documentation [![wiki](https://img.shields.io/badge/Wiki-GO-brightgreen.svg)](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/wiki)
+### Aim
+Translating text in form of single statement human written descriptions directly into image through following steps.
+1.	Make machines understand how humans represent an abstract image.
+2.	To make an image generator out of visual descriptions.
+3.	To make the model platform independent.
+
+
 ## Dependencies ![](https://img.shields.io/depfu/depfu/example-ruby.svg)
 1. Python
 2. Pytorch
