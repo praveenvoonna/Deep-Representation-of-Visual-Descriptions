@@ -17,6 +17,7 @@ Deep Convolutional Networks and RNN have already yielded discriminative
 and generalizable text representation of images.
 We also have DCGAN to generate natural images using competing
 Discriminative and Generator functions.
+![](Deep-Representation-of-Visual-Descriptions/models/framework.jpg)
 
 
 ## Dependencies ![](https://img.shields.io/depfu/depfu/example-ruby.svg)
